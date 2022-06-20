@@ -10,3 +10,5 @@ test2 ke 3
 test2 ke 4
 ---
 test2 ke 5
+---
+test2 ke 6
