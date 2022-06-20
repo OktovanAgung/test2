@@ -18,3 +18,7 @@ test2 ke 7
 test2 ke 8
 ---
 test2 ke 9
+
+![y](Yeji3.jpg)
+![y](Yeji2.jpg)
+![y](Yeji.jpg)
